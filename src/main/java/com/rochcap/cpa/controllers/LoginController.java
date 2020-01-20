@@ -103,7 +103,6 @@ public class LoginController
 		catch (Exception e)
 		{
 			logger.error("validateLogin - Exception: " + e.getMessage());
-			e.printStackTrace();
 			model.addAttribute("errorMessage", "Server Error. Server may be down!");
 			session.setAttribute("authenticated", false);
 			return new ModelAndView("login", model);
