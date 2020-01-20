@@ -20,6 +20,7 @@
 		<!-- Organization and project keys are displayed in the right sidebar of the project homepage -->
 		<sonar.organization>lvenarchick</sonar.organization>
 		<sonar.projectKey>lvenarchick_testSonar</sonar.projectKey>
+		<sonar.branch.name>testSonarCloudBranch</sonar.branch.name>
 	</properties>
 	
 	<dependencies>
