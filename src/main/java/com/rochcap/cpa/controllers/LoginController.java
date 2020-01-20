@@ -1,8 +1,6 @@
 
 package com.rochcap.cpa.controllers;
 
-import java.util.ArrayList;
-
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -15,9 +13,6 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
-
-import com.rochcap.cpa.ldap.LdapAuthentication;
-import com.rochcap.cpa.models.CpaRequest;
 
 @Controller
 @RequestMapping("/")
@@ -64,41 +59,41 @@ public class LoginController
 
 		try
 		{
-			LdapAuthentication ldap = new LdapAuthentication();
-			String authenticatedMessage = ldap.authenticate(username, password, domain);
-			logger.debug("validateLogin - authenticated message: " + authenticatedMessage);
-
-			// User authenticated successfully
-			if (authenticatedMessage.equals(""))
-			{
-				session.setAttribute("authenticated", true);
-				session.setAttribute("username", username);
-				ArrayList<String> groups = ldap.getAuthenticationGroups(username, password, domain);
-				if (groups == null || groups.isEmpty())
-				{
-					logger.warn("validateLogin - user: " + username + " get groups failed.");
-					session.setAttribute("authenticated", false);
-					model.addAttribute("errorMessage", "Unable to access authentication server. ");
-					return new ModelAndView("login", model);
-				}
-				else
-				{
-					logger.debug("validateLogin - load Associate Page");
-					CpaRequest cpaRequest = new CpaRequest();
-					model.addAttribute("newRecord", "true");
-					model.addAttribute("associate", "true");
-					model.addAttribute("associateId", username);
-					model.addAttribute("company", context.getAttribute("cpa-website-domain-name"));
-					return new ModelAndView("cpaDataRequest", "cpaRequest", cpaRequest);
-				}
-			}
-			else
-			{
-				logger.warn("validateLogin - user: " + username + " authentication failed. authenticatedMessage: " + authenticatedMessage);
-				session.setAttribute("authenticated", false);
-				model.addAttribute("errorMessage", authenticatedMessage);
+//			//LdapAuthentication ldap = new LdapAuthentication();
+//			String authenticatedMessage = "";
+//			logger.debug("validateLogin - authenticated message: " + authenticatedMessage);
+//
+//			// User authenticated successfully
+//			if (authenticatedMessage.equals(""))
+//			{
+//				session.setAttribute("authenticated", true);
+//				session.setAttribute("username", username);
+//				ArrayList<String> groups = ldap.getAuthenticationGroups(username, password, domain);
+//				if (groups == null || groups.isEmpty())
+//				{
+//					logger.warn("validateLogin - user: " + username + " get groups failed.");
+//					session.setAttribute("authenticated", false);
+//					model.addAttribute("errorMessage", "Unable to access authentication server. ");
+//					return new ModelAndView("login", model);
+//				}
+//				else
+//				{
+//					logger.debug("validateLogin - load Associate Page");
+//					CpaRequest cpaRequest = new CpaRequest();
+//					model.addAttribute("newRecord", "true");
+//					model.addAttribute("associate", "true");
+//					model.addAttribute("associateId", username);
+//					model.addAttribute("company", context.getAttribute("cpa-website-domain-name"));
+//					return new ModelAndView("cpaDataRequest", "cpaRequest", cpaRequest);
+//				}
+//			}
+//			else
+//			{
+//				logger.warn("validateLogin - user: " + username + " authentication failed. authenticatedMessage: " + authenticatedMessage);
+//				session.setAttribute("authenticated", false);
+//				model.addAttribute("errorMessage", authenticatedMessage);
 				return new ModelAndView("login", model);
-			}
+//			}
 		}
 		catch (Exception e)
 		{

@@ -22,6 +22,7 @@
 		<sonar.projectKey>lvenarchick_testSonar</sonar.projectKey>
 		<sonar.branch.name>testSonarCloudBranch</sonar.branch.name>
 		<sonar.login>7bae9bf59ba49639217762d02594da3a78a6805e</sonar.login>
+		<sonar.coverage.exclusions>*.css</sonar.coverage.exclusions>
 		
 	</properties>
 	

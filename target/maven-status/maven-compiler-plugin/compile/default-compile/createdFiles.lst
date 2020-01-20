@@ -11,11 +11,9 @@ com\rochcap\cpa\controllers\ErrorController.class
 com\rochcap\cpa\controllers\LoginController.class
 com\rochcap\cpa\models\CpaEvent.class
 com\rochcap\cpa\config\AppInitializer.class
-com\rochcap\cpa\utils\DataSecurityViolationDetection.class
 com\rochcap\cpa\config\WebMvcConfig.class
 com\rochcap\cpa\utils\Constants.class
 com\rochcap\cpa\models\CpaRequest.class
-com\rochcap\cpa\ldap\LdapAuthentication.class
 com\rochcap\cpa\dao\ValidationDAO.class
 com\rochcap\cpa\utils\Utilities.class
 com\rochcap\cpa\controllers\RequestController.class
