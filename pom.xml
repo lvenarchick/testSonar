@@ -16,6 +16,14 @@
 		<qa.deploy.folder>${qa.build.folder.name}\${project.name}_${build.datetime}</qa.deploy.folder>
 		<maven.build.timestamp.format>MMddyy_HHmmss</maven.build.timestamp.format>
 		<build.datetime>${maven.build.timestamp}</build.datetime>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<!-- Organization and project keys are displayed in the right sidebar of the project homepage -->
+		<sonar.organization>lvenarchick</sonar.organization>
+		<sonar.projectKey>lvenarchick_testSonar</sonar.projectKey>
+		<sonar.branch.name>testSonarCloudBranch</sonar.branch.name>
+		<sonar.login>7bae9bf59ba49639217762d02594da3a78a6805e</sonar.login>
+		<sonar.coverage.exclusions>*.css</sonar.coverage.exclusions>
+		
 	</properties>
 	
 	<dependencies>

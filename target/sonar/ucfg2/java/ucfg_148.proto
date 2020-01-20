@@ -1,0 +1,493 @@
+
+Pcom.rochcap.cpa.config.AppInitializer#onStartup(Ljavax/servlet/ServletContext;)Vb
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java& &("paramAnnotations*é(
+2b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaD D(é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaD4 D(Q
+%44java.lang.String"__id*
+""›⁄
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaD D(R
+%45void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-name*
+
+%44java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaE< E(a
+%46java.lang.String"__id*
+""Â‚
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaE E(b
+%47void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-favicon-name*
+
+%46java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaF8 F(Y
+%48java.lang.String"__id*
+""·ﬁ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaF F(Z
+%49void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-href-url*
+
+%48java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaG> G(e
+%50java.lang.String"__id*
+""Á‰
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaG G(f
+%51void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-jsdisabled-url*
+
+%50java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaH9 H([
+%52java.lang.String"__id*
+""‚ﬂ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaH H(\
+%53void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-name*
+
+%52java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaI; I(_
+%54java.lang.String"__id*
+""‰·
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaI I(`
+%55void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-height*
+
+%54java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaJ: J(]
+%56java.lang.String"__id*
+""„‡
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaJ J(^
+%57void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-width*
+
+%56java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaK7 K(W
+%58java.lang.String"__id*
+""‡›
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaK K(X
+%59void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-address*
+
+%58java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaL5 L(S
+%60java.lang.String"__id*
+""ﬁ€
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaL L(T
+%61void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-phone*
+
+%60java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaM@ M(q
+%62java.lang.String"__id*
+""ÈÊ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaM M(r
+%63void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext* 
+cpa-website-assistance-phone*
+
+%62java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+1*ï
+3b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaB B(é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaB( B(L
+%42java.lang.String"__id*
+""íè
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaB B(M
+%43boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z* 
+
+
+domainNamejava.lang.String*
+
+%42java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*é(
+4b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java7 7(é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java74 7(M
+%22java.lang.String"__id*
+""›⁄
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java7 7(N
+%23void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-name*
+
+%22java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java8< 8(]
+%24java.lang.String"__id*
+""Â‚
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java8 8(^
+%25void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-favicon-name*
+
+%24java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java98 9(U
+%26java.lang.String"__id*
+""·ﬁ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java9 9(V
+%27void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-href_url*
+
+%26java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java:> :(a
+%28java.lang.String"__id*
+""Á‰
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java: :(b
+%29void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-jsdisabled-url*
+
+%28java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java;9 ;(W
+%30java.lang.String"__id*
+""‚ﬂ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java; ;(X
+%31void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-name*
+
+%30java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java<; <([
+%32java.lang.String"__id*
+""‰·
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java< <(\
+%33void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-height*
+
+%32java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java=: =(Y
+%34java.lang.String"__id*
+""„‡
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java= =(Z
+%35void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-logo-width*
+
+%34java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java>7 >(S
+%36java.lang.String"__id*
+""‡›
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java> >(T
+%37void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-address*
+
+%36java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java?5 ?(O
+%38java.lang.String"__id*
+""ﬁ€
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java? ?(P
+%39void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-phone*
+
+%38java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java@@ @(m
+%40java.lang.String"__id*
+""ÈÊ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java@ @(n
+%41void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext* 
+cpa-website-assistance-phone*
+
+%40java.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+1*É
+5b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java4 4(ÎË
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java4 4(E
+%19void"Pjavax.servlet.ServletContext#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-domain-name* 
+
+
+domainNamejava.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java5" 5(B
+%20java.lang.String"__id*
+""íè
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java5 5(C
+%21boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z* 
+
+
+domainNamejava.lang.String*
+
+%20java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+3
+4*Ã
+6b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java1 1(sÆ´
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java1 1(%
+%17javax.servlet.ServletException"javax.servlet.ServletException¨
+©
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java1	 1(t
+%18":javax.servlet.ServletException#<init>(Ljava/lang/String;)V*'
+%
+%17javax.servlet.ServletException*WU
+SThe Wildfly System Property 'cpa-website-domain-name' has not been setup correctly.*
+0*ï
+7b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java0 0(é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java0" 0(F
+%15java.lang.String"__id*
+""íè
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java0 0(G
+%16boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z* 
+
+
+domainNamejava.lang.String*
+
+%15java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+5
+6*ï
+8b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java/ /('é
+ã
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java/9 /(Y
+%13java.lang.String"__id*
+""íè
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java/ /(Z
+%14boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z* 
+
+
+domainNamejava.lang.String*
+
+%13java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+5
+7*˝
+9b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java( ((¶
+£
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java( ((!
+
+%0void"worg.springframework.web.servlet.support.AbstractDispatcherServletInitializer#onStartup(Ljavax/servlet/ServletContext;)V*
+""*0
+.
+servletContextjavax.servlet.ServletContext√¿
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java)! )(0/
+%1)com.rochcap.cpa.listeners.SessionListener")com.rochcap.cpa.listeners.SessionListener’
+“
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java) )(2
+%2"3com.rochcap.cpa.listeners.SessionListener#<init>()V*1
+/
+%1)com.rochcap.cpa.listeners.SessionListener∆√
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java) )(3
+
+%3void"Djavax.servlet.ServletContext#addListener(Ljava/util/EventListener;)V*0
+.
+servletContextjavax.servlet.ServletContext*1
+/
+%1)com.rochcap.cpa.listeners.SessionListener2&addListener(Ljava/util/EventListener;)◊‘
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java*! *(:9
+%43com.rochcap.cpa.listeners.AppRequestContextListener"3com.rochcap.cpa.listeners.AppRequestContextListenerÈ
+Ê
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java* *(<
+%5"=com.rochcap.cpa.listeners.AppRequestContextListener#<init>()V*;
+9
+%43com.rochcap.cpa.listeners.AppRequestContextListener–Õ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java* *(=
+
+%6void"Djavax.servlet.ServletContext#addListener(Ljava/util/EventListener;)V*0
+.
+servletContextjavax.servlet.ServletContext*;
+9
+%43com.rochcap.cpa.listeners.AppRequestContextListener2&addListener(Ljava/util/EventListener;)∂≥
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java+ +()'
+%7!javax.servlet.SessionCookieConfig"Xjavax.servlet.ServletContext#getSessionCookieConfig()Ljavax/servlet/SessionCookieConfig;*0
+.
+servletContextjavax.servlet.ServletContext2getSessionCookieConfig()ÈÊ
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java+ +(;
+
+%8void"1javax.servlet.SessionCookieConfig#setHttpOnly(Z)V*)
+'
+%7!javax.servlet.SessionCookieConfig*
+""2setHttpOnly(Z)∂≥
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java, ,()'
+%9!javax.servlet.SessionCookieConfig"Xjavax.servlet.ServletContext#getSessionCookieConfig()Ljavax/servlet/SessionCookieConfig;*0
+.
+servletContextjavax.servlet.ServletContext2getSessionCookieConfig()Ê„
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java, ,(9
+%10void"/javax.servlet.SessionCookieConfig#setSecure(Z)V*)
+'
+%9!javax.servlet.SessionCookieConfig*
+""2setSecure(Z)
+Ì
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java. .(C
+%11java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+	!Unknown!*
+cpa-website-domain-name®
+•
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java. .(D
+
+domainNamejava.lang.String"__id*
+
+%11java.lang.String*
+6
+8*Û
+paramAnnotationsb
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java& &(5ƒ
+¡
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java% %(
+
+%12"
+__annotate*
+java.lang.Override*0
+.
+servletContextjavax.servlet.ServletContextÆ
+´
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.java&& &(4.
+servletContextjavax.servlet.ServletContext"__annotation*
+
+%12*
+9*Ä
+0 "y
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaR R(
+implicit return*ß
+1b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaP P(ñ
+ì
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaP P(
+%64org.jboss.logging.Logger"__id*
+""ª∏
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaPD P(s
+%65java.lang.Object"Ojavax.servlet.ServletContext#getAttribute(Ljava/lang/String;)Ljava/lang/Object;*0
+.
+servletContextjavax.servlet.ServletContext*
+cpa-website-name2 getAttribute(Ljava/lang/String;)ﬁ
+€
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaP P(s
+%66java.lang.String"__concat*75
+3onStartup - Initialization Complete. Website Name: *
+
+%65java.lang.ObjectÄ˝
+b
+XC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/config/AppInitializer.javaP P(t
+%67void"2org.jboss.logging.Logger#info(Ljava/lang/Object;)V*!
+
+%64org.jboss.logging.Logger*
+
+%66java.lang.String2info(Ljava/lang/Object;)*
+0:.
+servletContextjavax.servlet.ServletContextB)'
+%com.rochcap.cpa.config.AppInitializer

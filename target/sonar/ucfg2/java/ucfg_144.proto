@@ -1,0 +1,897 @@
+
+>com.rochcap.cpa.models.CpaRequest#toString()Ljava/lang/String;`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java² ²("1*¨À
+1`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´( ¸
+µ
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´# ´(+
+%0java.lang.String"__id*3*1#
+!com.rochcap.cpa.models.CpaRequest"
+
+recordId¼
+¹
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(+
+%1java.lang.String"__concat*
+CpaRequest [recordId=*
+
+%0java.lang.String³
+°
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(<
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, requester=¹
+¶
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´? ´(H
+%3java.lang.String"__id*4*2#
+!com.rochcap.cpa.models.CpaRequest"
+	requester»
+¸
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(H
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String´
+±
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Z
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, agencyName=º
+·
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´] ´(g
+%6java.lang.String"__id*5*3#
+!com.rochcap.cpa.models.CpaRequest"
+
+agencyName»
+¸
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(g
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String·
+´
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(|
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, agencyAddress=¾
+»
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ ´(Œ
+%9java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+agencyAddress½
+º
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Œ
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String·
+´
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ž
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, agencyCity=½
+º
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´¡ ´(«
+%12java.lang.String"__id*5*3#
+!com.rochcap.cpa.models.CpaRequest"
+
+agencyCity¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(«
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.String¸
+µ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(¾
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+, agencyState=¾
+»
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Á ´(Ì
+%15java.lang.String"__id*6*4#
+!com.rochcap.cpa.models.CpaRequest"
+agencyState¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ì
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.String¶
+³
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ý
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+, agencyZip=¼
+¹
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´à ´(é
+%18java.lang.String"__id*4*2#
+!com.rochcap.cpa.models.CpaRequest"
+	agencyZip¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(é
+%19java.lang.String"__concat*
+
+%17java.lang.String*
+
+%18java.lang.String»
+¸
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ÿ
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+, agentFirstName=Á
+¾
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´‚ ´(
+%21java.lang.String"__id*9*7#
+!com.rochcap.cpa.models.CpaRequest"
+agentFirstName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(
+%22java.lang.String"__concat*
+
+%20java.lang.String*
+
+%21java.lang.String¼
+¹
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(§
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+, agentMiddleName=Â
+¿
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ª ´(¹
+%24java.lang.String"__id*:*8#
+!com.rochcap.cpa.models.CpaRequest"
+agentMiddleName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(¹
+%25java.lang.String"__concat*
+
+%23java.lang.String*
+
+%24java.lang.Stringº
+·
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Î
+%26java.lang.String"__concat*
+
+%25java.lang.String*
+, agentLastName=À
+½
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ñ ´(Þ
+%27java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+agentLastName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Þ
+%28java.lang.String"__concat*
+
+%26java.lang.String*
+
+%27java.lang.String¹
+¶
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ò
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+, agentAddress=¿
+¼
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´õ ´(
+%30java.lang.String"__id*7*5#
+!com.rochcap.cpa.models.CpaRequest"
+agentAddress¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(
+%31java.lang.String"__concat*
+
+%29java.lang.String*
+
+%30java.lang.String¶
+³
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(’
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+, agentCity=¼
+¹
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´• ´(ž
+%33java.lang.String"__id*4*2#
+!com.rochcap.cpa.models.CpaRequest"
+	agentCity¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ž
+%34java.lang.String"__concat*
+
+%32java.lang.String*
+
+%33java.lang.String·
+´
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(°
+%35java.lang.String"__concat*
+
+%34java.lang.String*
+, agentState=½
+º
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´³ ´(½
+%36java.lang.String"__id*5*3#
+!com.rochcap.cpa.models.CpaRequest"
+
+agentState¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(½
+%37java.lang.String"__concat*
+
+%35java.lang.String*
+
+%36java.lang.Stringµ
+²
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Í
+%38java.lang.String"__concat*
+
+%37java.lang.String*
+, agentZip=»
+¸
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ð ´(Ø
+%39java.lang.String"__id*3*1#
+!com.rochcap.cpa.models.CpaRequest"
+
+agentZip¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ø
+%40java.lang.String"__concat*
+
+%38java.lang.String*
+
+%39java.lang.Stringµ
+²
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(è
+%41java.lang.String"__concat*
+
+%40java.lang.String*
+, agentDob=»
+¸
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ë ´(ó
+%42java.lang.String"__id*3*1#
+!com.rochcap.cpa.models.CpaRequest"
+
+agentDob¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ó
+%43java.lang.String"__concat*
+
+%41java.lang.String*
+
+%42java.lang.String½
+º
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(‹
+%44java.lang.String"__concat*
+
+%43java.lang.String*
+, agentSsnLastFour=Ã
+À
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ž ´(ž
+%45java.lang.String"__id*;*9#
+!com.rochcap.cpa.models.CpaRequest"
+agentSsnLastFour¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(ž
+%46java.lang.String"__concat*
+
+%44java.lang.String*
+
+%45java.lang.String¸
+µ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(±
+%47java.lang.String"__concat*
+
+%46java.lang.String*
+, associateId=¾
+»
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´´ ´(¿
+%48java.lang.String"__id*6*4#
+!com.rochcap.cpa.models.CpaRequest"
+associateId¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(¿
+%49java.lang.String"__concat*
+
+%47java.lang.String*
+
+%48java.lang.String¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ù
+%50java.lang.String"__concat*
+
+%49java.lang.String*
+, submittedToFdrDate=Å
+Â
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ü ´(î
+%51java.lang.String"__id*=*;#
+!com.rochcap.cpa.models.CpaRequest"
+submittedToFdrDate¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(î
+%52java.lang.String"__concat*
+
+%50java.lang.String*
+
+%51java.lang.StringÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(‹
+%53java.lang.String"__concat*
+
+%52java.lang.String*
+, requestTypeCategories=È
+Å
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ž ´(£
+%54java.lang.String"__id*@*>#
+!com.rochcap.cpa.models.CpaRequest"
+requestTypeCategories¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(£
+%55java.lang.String"__concat*
+
+%53java.lang.String*
+
+%54java.lang.StringÀ
+½
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(¾
+%56java.lang.String"__concat*
+
+%55java.lang.String*
+, requestTypeSpecific=Æ
+Ã
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Á ´(Ô
+%57java.lang.String"__id*>*<#
+!com.rochcap.cpa.models.CpaRequest"
+requestTypeSpecific¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ô
+%58java.lang.String"__concat*
+
+%56java.lang.String*
+
+%57java.lang.String¾
+»
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(í
+%59java.lang.String"__concat*
+
+%58java.lang.String*
+, requestTypeDelete=Ä
+Á
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ð ´(
+%60java.lang.String"__id*<*:#
+!com.rochcap.cpa.models.CpaRequest"
+requestTypeDelete¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(
+%61java.lang.String"__concat*
+
+%59java.lang.String*
+
+%60java.lang.String¾
+»
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(š
+%62java.lang.String"__concat*
+
+%61java.lang.String*
+, requestTypeOptOut=Ä
+Á
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ ´(®
+%63java.lang.String"__id*<*:#
+!com.rochcap.cpa.models.CpaRequest"
+requestTypeOptOut¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(®
+%64java.lang.String"__concat*
+
+%62java.lang.String*
+
+%63java.lang.String¾
+»
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ç
+%65java.lang.String"__concat*
+
+%64java.lang.String*
+, consumerFirstName=Ä
+Á
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ê ´(Û
+%66java.lang.String"__id*<*:#
+!com.rochcap.cpa.models.CpaRequest"
+consumerFirstName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Û
+%67java.lang.String"__concat*
+
+%65java.lang.String*
+
+%66java.lang.String¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(õ
+%68java.lang.String"__concat*
+
+%67java.lang.String*
+, consumerMiddleName=Å
+Â
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ø ´(Š
+%69java.lang.String"__id*=*;#
+!com.rochcap.cpa.models.CpaRequest"
+consumerMiddleName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Š
+%70java.lang.String"__concat*
+
+%68java.lang.String*
+
+%69java.lang.String½
+º
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(¢
+%71java.lang.String"__concat*
+
+%70java.lang.String*
+, consumerLastName=Ã
+À
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´¥ ´(µ
+%72java.lang.String"__id*;*9#
+!com.rochcap.cpa.models.CpaRequest"
+consumerLastName¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(µ
+%73java.lang.String"__concat*
+
+%71java.lang.String*
+
+%72java.lang.String¼
+¹
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Ì
+%74java.lang.String"__concat*
+
+%73java.lang.String*
+, consumerAddress=Â
+¿
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´Ï ´(Þ
+%75java.lang.String"__id*:*8#
+!com.rochcap.cpa.models.CpaRequest"
+consumerAddress¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 ´(Þ
+%76java.lang.String"__concat*
+
+%74java.lang.String*
+
+%75java.lang.String½
+º
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(
+%77java.lang.String"__concat*
+
+%76java.lang.String*
+, consumerApartment=Â
+¿
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ µ(0
+%78java.lang.String"__id*<*:#
+!com.rochcap.cpa.models.CpaRequest"
+consumerApartment¾
+»
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(0
+%79java.lang.String"__concat*
+
+%77java.lang.String*
+
+%78java.lang.String¸
+µ
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(D
+%80java.lang.String"__concat*
+
+%79java.lang.String*
+, consumerCity=½
+º
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµG µ(S
+%81java.lang.String"__id*7*5#
+!com.rochcap.cpa.models.CpaRequest"
+consumerCity¾
+»
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(S
+%82java.lang.String"__concat*
+
+%80java.lang.String*
+
+%81java.lang.String¹
+¶
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(h
+%83java.lang.String"__concat*
+
+%82java.lang.String*
+, consumerState=¾
+»
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµk µ(x
+%84java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+consumerState¾
+»
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(x
+%85java.lang.String"__concat*
+
+%83java.lang.String*
+
+%84java.lang.String¸
+µ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(‹
+%86java.lang.String"__concat*
+
+%85java.lang.String*
+, consumerZip=¾
+»
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµŽ µ(™
+%87java.lang.String"__id*6*4#
+!com.rochcap.cpa.models.CpaRequest"
+consumerZip¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(™
+%88java.lang.String"__concat*
+
+%86java.lang.String*
+
+%87java.lang.Stringº
+·
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(®
+%89java.lang.String"__concat*
+
+%88java.lang.String*
+, consumerPhone=À
+½
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ± µ(¾
+%90java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+consumerPhone¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¾
+%91java.lang.String"__concat*
+
+%89java.lang.String*
+
+%90java.lang.String¸
+µ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(Ñ
+%92java.lang.String"__concat*
+
+%91java.lang.String*
+, consumerDob=¾
+»
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµÔ µ(ß
+%93java.lang.String"__id*6*4#
+!com.rochcap.cpa.models.CpaRequest"
+consumerDob¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ß
+%94java.lang.String"__concat*
+
+%92java.lang.String*
+
+%93java.lang.StringÀ
+½
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ú
+%95java.lang.String"__concat*
+
+%94java.lang.String*
+, consumerSsnLastFour=Æ
+Ã
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµý µ(
+%96java.lang.String"__id*>*<#
+!com.rochcap.cpa.models.CpaRequest"
+consumerSsnLastFour¿
+¼
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(
+%97java.lang.String"__concat*
+
+%95java.lang.String*
+
+%96java.lang.Stringº
+·
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¥
+%98java.lang.String"__concat*
+
+%97java.lang.String*
+, consumerEmail=À
+½
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ¨ µ(µ
+%99java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+consumerEmailÀ
+½
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(µ
+%100java.lang.String"__concat*
+
+%98java.lang.String*
+
+%99java.lang.StringÉ
+Æ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(×
+%101java.lang.String"__concat*
+
+%100java.lang.String*!
+, consumerEmailAuthorization=Î
+Ë
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµÚ µ(ô
+%102java.lang.String"__id*E*C#
+!com.rochcap.cpa.models.CpaRequest"
+consumerEmailAuthorizationÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ô
+%103java.lang.String"__concat*
+
+%101java.lang.String*
+
+%102java.lang.StringÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(
+%104java.lang.String"__concat*
+
+%103java.lang.String*
+, perjuryConfirmation=Ç
+Ä
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ’ µ(¥
+%105java.lang.String"__id*>*<#
+!com.rochcap.cpa.models.CpaRequest"
+perjuryConfirmationÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¥
+%106java.lang.String"__concat*
+
+%104java.lang.String*
+
+%105java.lang.String¼
+¹
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(º
+%107java.lang.String"__concat*
+
+%106java.lang.String*
+, requestStatus=Á
+¾
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ½ µ(Ê
+%108java.lang.String"__id*8*6#
+!com.rochcap.cpa.models.CpaRequest"
+requestStatusÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(Ê
+%109java.lang.String"__concat*
+
+%107java.lang.String*
+
+%108java.lang.String¸
+µ
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(Û
+%110java.lang.String"__concat*
+
+%109java.lang.String*
+, ipAddress=½
+º
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµÞ µ(ç
+%111java.lang.String"__id*4*2#
+!com.rochcap.cpa.models.CpaRequest"
+	ipAddressÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ç
+%112java.lang.String"__concat*
+
+%110java.lang.String*
+
+%111java.lang.Stringº
+·
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ú
+%113java.lang.String"__concat*
+
+%112java.lang.String*
+, dateEntered=¿
+¼
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµý µ(ˆ
+%114java.lang.String"__id*6*4#
+!com.rochcap.cpa.models.CpaRequest"
+dateEnteredÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(ˆ
+%115java.lang.String"__concat*
+
+%113java.lang.String*
+
+%114java.lang.StringÄ
+Á
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¥
+%116java.lang.String"__concat*
+
+%115java.lang.String*
+, tenDayResponseDueDate=É
+Æ
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ¨ µ(½
+%117java.lang.String"__id*@*>#
+!com.rochcap.cpa.models.CpaRequest"
+tenDayResponseDueDateÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(½
+%118java.lang.String"__concat*
+
+%116java.lang.String*
+
+%117java.lang.StringË
+È
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(á
+%119java.lang.String"__concat*
+
+%118java.lang.String*#!
+, fourtyFiveDayResponseDueDate=Ð
+Í
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµä µ(€
+%120java.lang.String"__id*G*E#
+!com.rochcap.cpa.models.CpaRequest"
+fourtyFiveDayResponseDueDateÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(€
+%121java.lang.String"__concat*
+
+%119java.lang.String*
+
+%120java.lang.StringÆ
+Ã
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(Ÿ
+%122java.lang.String"__concat*
+
+%121java.lang.String*
+, nintyDayResponseDueDate=Ë
+È
+b
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ¢ µ(¹
+%123java.lang.String"__id*B*@#
+!com.rochcap.cpa.models.CpaRequest"
+nintyDayResponseDueDateÂ
+¿
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¹
+%124java.lang.String"__concat*
+
+%122java.lang.String*
+
+%123java.lang.String­
+ª
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´	 µ(¿
+%125java.lang.String"__concat*
+
+%124java.lang.String*
+]"
+a
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java´ µ(À
+
+%125java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest

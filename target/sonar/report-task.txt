@@ -1,0 +1,8 @@
+organization=lvenarchick
+projectKey=lvenarchick_testSonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4145
+branch=testSonarCloudBranch
+dashboardUrl=https://sonarcloud.io/dashboard?id=lvenarchick_testSonar&branch=testSonarCloudBranch&resolved=false
+ceTaskId=AW_EABRqy043OQzwbPEK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW_EABRqy043OQzwbPEK

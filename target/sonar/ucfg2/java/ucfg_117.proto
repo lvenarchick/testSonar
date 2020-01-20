@@ -1,0 +1,16 @@
+
+Scom.rochcap.cpa.models.CpaRequest#getConsumerEmailAuthorization()Ljava/lang/String;`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java³ ³(,"1*°
+1`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ	 µ(#Ê
+Ç
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ	 µ(#
+%0java.lang.String"__id*E*C#
+!com.rochcap.cpa.models.CpaRequest"
+consumerEmailAuthorization"|
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaµ µ($
+
+%0java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest

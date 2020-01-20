@@ -1,0 +1,118 @@
+
+Zcom.rochcap.cpa.ldap.LdapAuthentication#isAuthenticated(Ljavax/naming/NamingEnumeration;)Zf
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.java˛ ˛( "6*∂	
+2f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaë ë(ÚÔ
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaë ë(
+%8java.lang.Object"7javax.naming.NamingEnumeration#next()Ljava/lang/Object;*,
+*
+memberOfjavax.naming.NamingEnumeration2next()ÿ’
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaë ë('
+%9java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%8java.lang.Object2
+toString()ö
+ó
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaô ô(
+%10org.jboss.logging.Logger"__id*
+""Õ
+ 
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaô ô(X
+%11java.lang.String"__concat*53
+1isAuthenticated (GROUP COMPARE) isAuthenticated: *
+""ÜÉ
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaô ô(Y
+%12void"3org.jboss.logging.Logger#debug(Ljava/lang/Object;)V*!
+
+%10org.jboss.logging.Logger*
+
+%11java.lang.String2debug(Ljava/lang/Object;)*
+6*€
+3f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaè è(Â‚
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaè è(%
+%7boolean"(java.util.Enumeration#hasMoreElements()Z*,
+*
+memberOfjavax.naming.NamingEnumeration2hasMoreElements()*
+2
+6*»
+4f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaã! ã(&≈¬
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaã! ã(6&
+%3 javax.naming.directory.Attribute"[javax.naming.directory.Attributes#get(Ljava/lang/String;)Ljavax/naming/directory/Attribute;*,
+*
+attrs!javax.naming.directory.Attributes*
+
+memberOf2get(Ljava/lang/String;)êç
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaã! ã(?$
+%4javax.naming.NamingEnumeration"Ijavax.naming.directory.Attribute#getAll()Ljavax/naming/NamingEnumeration;*(
+&
+%3 javax.naming.directory.Attribute2getAll()≈
+¬
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaã ã(@*
+memberOfjavax.naming.NamingEnumeration"__id*&
+$
+%4javax.naming.NamingEnumeration¡æ
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaå å(,&
+%5 javax.naming.directory.Attribute"[javax.naming.directory.Attributes#get(Ljava/lang/String;)Ljavax/naming/directory/Attribute;*,
+*
+attrs!javax.naming.directory.Attributes*
+name2get(Ljava/lang/String;)ÓÎ
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaå å(2
+%6java.lang.Object"8javax.naming.directory.Attribute#get()Ljava/lang/Object;*(
+&
+%5 javax.naming.directory.Attribute2get()*
+3*ó
+5f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaÜ$ Ü(*Ì
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaÜ$ Ü(1
+%1java.lang.Object"7javax.naming.NamingEnumeration#next()Ljava/lang/Object;**
+(
+answerjavax.naming.NamingEnumeration2next()∂
+≥
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaÜ Ü(2)
+sr#javax.naming.directory.SearchResult"__id*
+
+%1java.lang.Object™ß
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaá á(('
+%2!javax.naming.directory.Attributes"Vjavax.naming.directory.SearchResult#getAttributes()Ljavax/naming/directory/Attributes;*+
+)
+sr#javax.naming.directory.SearchResult2getAttributes()»
+≈
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaá á()*
+attrs!javax.naming.directory.Attributes"__id*)
+'
+%2!javax.naming.directory.Attributes*
+4
+6*Ÿ
+6f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaÉ	 É(„‡
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.javaÉ	 É(!
+%0boolean"(java.util.Enumeration#hasMoreElements()Z**
+(
+answerjavax.naming.NamingEnumeration2hasMoreElements()*
+5
+1*›
+1f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.java†	 †("p
+f
+ZC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/ldap/LdapAuthentication.java† †(
+"":(
+answerjavax.naming.NamingEnumerationB+)
+'com.rochcap.cpa.ldap.LdapAuthentication
