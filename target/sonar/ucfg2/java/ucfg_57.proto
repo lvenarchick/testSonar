@@ -1,0 +1,17 @@
+
+Acom.rochcap.cpa.models.CpaRequest#getRecordId()Ljava/lang/String;^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaB B("1*˜
+1^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaD	 D(¶
+³
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaD	 D(
+%0java.lang.String"__id*3*1#
+!com.rochcap.cpa.models.CpaRequest"
+
+recordId"z
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaD D(
+
+%0java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest

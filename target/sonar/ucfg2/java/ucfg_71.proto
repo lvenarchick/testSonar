@@ -1,0 +1,16 @@
+
+Gcom.rochcap.cpa.models.CpaRequest#getAgentFirstName()Ljava/lang/String;^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaz z( "1*ž
+1^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java|	 |(¼
+¹
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java|	 |(
+%0java.lang.String"__id*9*7#
+!com.rochcap.cpa.models.CpaRequest"
+agentFirstName"z
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java| |(
+
+%0java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest

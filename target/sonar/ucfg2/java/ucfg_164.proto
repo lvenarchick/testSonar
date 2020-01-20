@@ -1,0 +1,28 @@
+
+com.rochcap.cpa.controllers.RequestController#jsdisabled(Lorg/springframework/ui/ModelMap;Ljavax/servlet/http/HttpSession;)Ljava/lang/String;l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÙ Ù("paramAnnotations*©
+paramAnnotationsl
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÙ Ù(>ì
+é
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaØ Ø(C
+%0"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*+
+)
+sessionjavax.servlet.http.HttpSession²
+¯
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÙ6 Ù(=)
+sessionjavax.servlet.http.HttpSession"__annotation*
+
+%0*
+1*÷
+1l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÛ	 Û("ƒ
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÛ Û(
+jscriptDisabled:(
+modelorg.springframework.ui.ModelMap:)
+sessionjavax.servlet.http.HttpSessionB1/
+-com.rochcap.cpa.controllers.RequestController

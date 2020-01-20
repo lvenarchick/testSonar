@@ -1,0 +1,16 @@
+
+Bcom.rochcap.cpa.models.CpaEvent#getEventDate()Ljava/sql/Timestamp;\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaI I("1*•
+1\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaK	 K(µ
+²
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaK	 K(
+%0java.sql.Timestamp"__id*2*0!
+com.rochcap.cpa.models.CpaEvent"
+	eventDate"z
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaK K(
+
+%0java.sql.TimestampB#!
+com.rochcap.cpa.models.CpaEvent

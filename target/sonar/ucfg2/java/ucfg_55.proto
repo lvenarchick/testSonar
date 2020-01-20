@@ -1,0 +1,470 @@
+
+Fcom.rochcap.cpa.tags.StatesSorted#getStates()Ljava/util/LinkedHashMap;^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java	& 	(/"1* W
+1^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java) (L›˜
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java- (J
+%0java.util.LinkedHashMap"java.util.LinkedHashMap­
+ª
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java) (L
+%1"!java.util.LinkedHashMap#<init>()V*
+
+%0java.util.LinkedHashMap­
+ª
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (M!
+statesjava.util.LinkedHashMap"__id*
+
+%0java.util.LinkedHashMap¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%2java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+AL*	
+ALABAMA¾
+»
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%3java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+AK*
+
+ALASKA¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%4java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+AZ*	
+ARIZONAÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%5java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+AR*
+
+ARKANSASÂ
+¿
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java ( 
+%6java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+CA*
+
+CALIFORNIAÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%7java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+CO*
+
+COLORADOÃ
+À
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (!
+%8java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+CT*
+CONNECTICUTÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%9java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+DE*
+
+DELAWAREÍ
+Ê
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (*
+%10java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+DC*
+DISTRICT OF COLUMBIAÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%11java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+FL*	
+FLORIDAÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%12java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+GA*	
+GEORGIA¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%13java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+HI*
+
+HAWAII¾
+»
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%14java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+ID*	
+IDAHOÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%15java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+IL*
+
+ILLINOISÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%16java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+IN*	
+INDIANA½
+º
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%17java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+IA*
+IOWA¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%18java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+KS*
+
+KANSASÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%19java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+KY*
+
+KENTUCKYÂ
+¿
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%20java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+LA*
+	LOUISIANA¾
+»
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java (
+%21java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+ME*	
+MAINEÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java   (
+%22java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MD*
+
+MARYLANDÆ
+Ã
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java! !(#
+%23java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MA*
+MASSACHUSETTSÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java" "(
+%24java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MI*
+
+MICHIGANÂ
+¿
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java# #(
+%25java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MN*
+	MINNESOTAÄ
+Á
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java$ $(!
+%26java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MS*
+MISSISSIPPIÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java% %(
+%27java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MO*
+
+MISSOURIÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java& &(
+%28java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+MT*	
+MONTANAÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java' '(
+%29java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NE*
+
+NEBRASKA¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java( ((
+%30java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NV*
+
+NEVADAÆ
+Ã
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java) )(#
+%31java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NH*
+NEW HAMPSHIREÃ
+À
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java* *( 
+%32java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NJ*
+
+NEW JERSEYÃ
+À
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java+ +( 
+%33java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NM*
+
+NEW MEXICOÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java, ,(
+%34java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NY*
+
+NEW YORKÇ
+Ä
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java- -($
+%35java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+NC*
+NORTH CAROLINAÅ
+Â
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java. .("
+%36java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+ND*
+NORTH DAKOTA½
+º
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java/ /(
+%37java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+OH*
+OHIOÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java0 0(
+%38java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+OK*
+
+OKLAHOMA¿
+¼
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java1 1(
+%39java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+OR*
+
+OREGONÅ
+Â
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java2 2("
+%40java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+PA*
+PENNSYLVANIAÄ
+Á
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java3 3(!
+%41java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+PR*
+PUERTO RICOÅ
+Â
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java4 4("
+%42java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+RI*
+RHODE ISLANDÇ
+Ä
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java5 5($
+%43java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+SC*
+SOUTH CAROLINAÅ
+Â
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java6 6("
+%44java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+SD*
+SOUTH DAKOTAÂ
+¿
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java7 7(
+%45java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+TN*
+	TENNESSEE¾
+»
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java8 8(
+%46java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+TX*	
+TEXAS½
+º
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java9 9(
+%47java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+UT*
+UTAHÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java: :(
+%48java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+VT*	
+VERMONTÇ
+Ä
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java; ;($
+%49java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+VI*
+VIRGIN ISLANDSÁ
+¾
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java< <(
+%50java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+va*
+
+VIRGINIAÃ
+À
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java= =( 
+%51java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+WA*
+
+WASHINGTONÆ
+Ã
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java> >(#
+%52java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+WV*
+WEST VIRGINIAÂ
+¿
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java? ?(
+%53java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+WI*
+	WISCONSINÀ
+½
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.java@ @(
+%54java.lang.String"__mapSet*#
+!
+statesjava.util.LinkedHashMap*
+WY*	
+WYOMING"…
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/tags/StatesSorted.javaB B(#
+!
+statesjava.util.LinkedHashMapB%#
+!com.rochcap.cpa.tags.StatesSorted

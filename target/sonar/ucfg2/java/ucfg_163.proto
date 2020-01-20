@@ -1,0 +1,28 @@
+
+‘com.rochcap.cpa.controllers.RequestController#sessionTimeout(Lorg/springframework/ui/ModelMap;Ljavax/servlet/http/HttpSession;)Ljava/lang/String;l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÓ Ó("paramAnnotations*©
+paramAnnotationsl
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÓ Ó(Bì
+é
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÒ Ò(G
+%0"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*+
+)
+sessionjavax.servlet.http.HttpSession²
+¯
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÓ: Ó(A)
+sessionjavax.servlet.http.HttpSession"__annotation*
+
+%0*
+1*ö
+1l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÕ	 Õ("‚
+l
+`C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/RequestController.javaÕ Õ(
+sessionTimeout:(
+modelorg.springframework.ui.ModelMap:)
+sessionjavax.servlet.http.HttpSessionB1/
+-com.rochcap.cpa.controllers.RequestController

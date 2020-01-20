@@ -1,0 +1,17 @@
+
+Ccom.rochcap.cpa.models.CpaRequest#getAgencyName()Ljava/lang/String;^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaR R("1*š
+1^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaT	 T(¸
+µ
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaT	 T(
+%0java.lang.String"__id*5*3#
+!com.rochcap.cpa.models.CpaRequest"
+
+agencyName"z
+^
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaT T(
+
+%0java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest

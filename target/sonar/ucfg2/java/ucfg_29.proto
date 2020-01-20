@@ -1,0 +1,37 @@
+
+ecom.rochcap.cpa.utils.DataSecurityViolationDetection#decodeText(Ljava/lang/String;)Ljava/lang/String;s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaô ô("1*Ž	
+1s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaö	 ö(¦
+£
+s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaö! ö(7
+%0java.nio.charset.Charset"__id*
+""õò
+s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaö! ö(B
+%1java.lang.String"5java.nio.charset.Charset#toString()Ljava/lang/String;* 
+
+%0java.nio.charset.Charset2
+toString()©
+¦
+s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaö	 ö(C
+%2java.lang.String"Rjava.net.URLDecoder#decode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+	!Unknown!*
+
+textjava.lang.String*
+
+%1java.lang.String²
+¯
+s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.javaö ö(C
+textjava.lang.String"__id*
+
+%2java.lang.String"‘
+s
+gC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/utils/DataSecurityViolationDetection.java÷ ÷(
+
+textjava.lang.String:
+textjava.lang.StringB86
+4com.rochcap.cpa.utils.DataSecurityViolationDetection

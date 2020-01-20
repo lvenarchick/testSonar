@@ -1,0 +1,599 @@
+
+—com.rochcap.cpa.controllers.LoginController#validateLogin(Lorg/springframework/ui/ModelMap;Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpSession;)Lorg/springframework/web/servlet/ModelAndView;h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java+ +(""paramAnnotations*µ
+46h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java- -(∫∑
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java- -(4
+%0java.lang.String"Ojavax.servlet.ServletRequest#getParameter(Ljava/lang/String;)Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest*
+
+username2 getParameter(Ljava/lang/String;)´
+®
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java- -(5
+usernamejava.lang.String"__id*
+
+%0java.lang.String∫∑
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java. .(4
+%1java.lang.String"Ojavax.servlet.ServletRequest#getParameter(Ljava/lang/String;)Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest*
+
+password2 getParameter(Ljava/lang/String;)´
+®
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java. .(5
+passwordjava.lang.String"__id*
+
+%1java.lang.String∏µ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java/ /(0
+%2java.lang.String"Ojavax.servlet.ServletRequest#getParameter(Ljava/lang/String;)Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest*
+
+domain2 getParameter(Ljava/lang/String;)©
+¶
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java/ /(1
+domainjava.lang.String"__id*
+
+%2java.lang.String*
+42
+45*°
+24h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaQ Q(
+™ß
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaQ Q(S&
+%37org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+errorMessage*,*
+(Unable to access authentication server. 22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+23*¡
+25h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaP P( «
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaP P(1
+%36void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+authenticated*
+""22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+24*≤
+26h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaO O(ú
+ô
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaO O(
+%32org.jboss.logging.Logger"__id*
+""Ã
+…
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaO O(4
+%33java.lang.String"__concat*
+validateLogin - user: *
+
+usernamejava.lang.Stringƒ
+¡
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaO O(L
+%34java.lang.String"__concat*
+
+%33java.lang.String*
+ get groups failed.ÜÉ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaO O(M
+%35void"2org.jboss.logging.Logger#warn(Ljava/lang/Object;)V*!
+
+%32org.jboss.logging.Logger*
+
+%34java.lang.String2warn(Ljava/lang/Object;)*
+25*ƒ
+28h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaM M( …∆
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaM M(*
+%31boolean"java.util.ArrayList#isEmpty()Z*
+
+groupsjava.util.ArrayList2	isEmpty()*
+26
+21*´
+29h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaL L(X∞
+≠
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaL L(X
+groupsjava.util.ArrayList"__id*
+
+%30java.util.ArrayList*
+26
+28*»
+paramAnnotationsh
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java+" +(cÔ
+Ï
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java* *(?
+%3"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*2
+0
+request%javax.servlet.http.HttpServletRequestµ
+≤
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java+F +(M0
+request%javax.servlet.http.HttpServletRequest"__annotation*
+
+%3Ë
+Â
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java* *(?
+%4"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*+
+)
+sessionjavax.servlet.http.HttpSessionÆ
+´
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java+[ +(b)
+sessionjavax.servlet.http.HttpSession"__annotation*
+
+%4*
+46*Ò
+30h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaL L(#˙˜
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaL L(W
+%30java.util.ArrayList"åcom.rochcap.cpa.ldap.LdapAuthentication#getAuthenticationGroups(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/util/ArrayList;*1
+/
+ldap'com.rochcap.cpa.ldap.LdapAuthentication*
+
+usernamejava.lang.String*
+
+passwordjava.lang.String*
+
+domainjava.lang.String2OgetAuthenticationGroups(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)*
+29*‘
+31h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaK K(›⁄
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaK K(.
+%29void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+
+username*
+
+usernamejava.lang.String22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+30*¡
+32h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaJ J( «
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaJ J(/
+%28void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+authenticated*
+""22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+31*û
+10h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javac c(	®•
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javac c(<&
+%58org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+errorMessage**
+(
+authenticatedMessagejava.lang.String22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+9*¡
+11h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javab b( «
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javab b(0
+%57void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+authenticated*
+""22setAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+10*Ú
+34h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaH H(˜Ù
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaH H(&
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z**
+(
+authenticatedMessagejava.lang.String* 2equals(Ljava/lang/Object;)*
+32
+12*ß	
+12h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(
+ú
+ô
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(
+
+%52org.jboss.logging.Logger"__id*
+""Ã
+…
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(3
+%53java.lang.String"__concat*
+validateLogin - user: *
+
+usernamejava.lang.Stringﬂ
+‹
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(f
+%54java.lang.String"__concat*
+
+%53java.lang.String*20
+. authentication failed. authenticatedMessage: ◊
+‘
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(}
+%55java.lang.String"__concat*
+
+%54java.lang.String**
+(
+authenticatedMessagejava.lang.StringÜÉ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaa a(~
+%56void"2org.jboss.logging.Logger#warn(Ljava/lang/Object;)V*!
+
+%52org.jboss.logging.Logger*
+
+%55java.lang.String2warn(Ljava/lang/Object;)*
+11*≈
+35h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaD D(O∏
+µ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaD D(O(
+authenticatedMessagejava.lang.String"__id*
+
+%23java.lang.Stringú
+ô
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaE E(	
+%24org.jboss.logging.Logger"__id*
+""È
+Ê
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaE E(P
+%25java.lang.String"__concat*+)
+'validateLogin - authenticated message: **
+(
+authenticatedMessagejava.lang.StringàÖ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaE E(Q
+%26void"3org.jboss.logging.Logger#debug(Ljava/lang/Object;)V*!
+
+%24org.jboss.logging.Logger*
+
+%25java.lang.String2debug(Ljava/lang/Object;)*
+34*í
+13h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java\ \(I"°
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java\ \(I5
+3
+%50,org.springframework.web.servlet.ModelAndView*≠
+36h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaC C(6÷
+”
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaC C(6/
+ldap'com.rochcap.cpa.ldap.LdapAuthentication"__id*0
+.
+%21'com.rochcap.cpa.ldap.LdapAuthentication›⁄
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaD! D(N
+%23java.lang.String"~com.rochcap.cpa.ldap.LdapAuthentication#authenticate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*1
+/
+ldap'com.rochcap.cpa.ldap.LdapAuthentication*
+
+usernamejava.lang.String*
+
+passwordjava.lang.String*
+
+domainjava.lang.String2Dauthenticate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)*
+35*∫
+14h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java\ \(-–Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java\ \(3
+%50,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndView
+Ì
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java\ \(H
+%51"lorg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)V*5
+3
+%50,org.springframework.web.servlet.ModelAndView*
+cpaDataRequest*
+
+cpaRequest*1
+/
+
+cpaRequest!com.rochcap.cpa.models.CpaRequest*
+13*ô
+37h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaC C(5∆√
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaC! C(3.
+%21'com.rochcap.cpa.ldap.LdapAuthentication"'com.rochcap.cpa.ldap.LdapAuthenticationŸ
+÷
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaC C(5
+%22"1com.rochcap.cpa.ldap.LdapAuthentication#<init>()V*0
+.
+%21'com.rochcap.cpa.ldap.LdapAuthentication*
+36*â
+15h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java[ [(Síè
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java[ [(S&
+%49org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*	
+company*
+
+%48java.lang.Object22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+14*ç
+16h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java[ [(
+÷
+”
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java[# [(*#
+%47javax.servlet.ServletContext"__id*<*:-
++com.rochcap.cpa.controllers.LoginController"	
+contextΩ∫
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java[# [(R
+%48java.lang.Object"Ojavax.servlet.ServletContext#getAttribute(Ljava/lang/String;)Ljava/lang/Object;*%
+#
+%47javax.servlet.ServletContext*
+cpa-website-domain-name2 getAttribute(Ljava/lang/String;)*
+15*√
+39h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java; ;(	ú
+ô
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java; ;(	
+%15org.jboss.logging.Logger"__id*
+""ïí
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java; ;(6
+%16void"2org.jboss.logging.Logger#warn(Ljava/lang/Object;)V*!
+
+%15org.jboss.logging.Logger*(&
+$validateLogin - Domain name missing.2warn(Ljava/lang/Object;) «
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java< <(/
+%17void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+authenticated*
+""22setAttribute(Ljava/lang/String;Ljava/lang/Object;)ôñ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java= =(@&
+%18org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+errorMessage*
+Please select a Domain!22addAttribute(Ljava/lang/String;Ljava/lang/Object;)–Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java> >(3
+%19,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewª
+∏
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java>
+ >(*
+%20"Worg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;Ljava/util/Map;)V*5
+3
+%19,org.springframework.web.servlet.ModelAndView*	
+login**
+(
+modelorg.springframework.ui.ModelMap"°
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java> >(+5
+3
+%19,org.springframework.web.servlet.ModelAndView*í
+17h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaZ Z(
+õò
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaZ Z(0&
+%46org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+associateId*
+
+usernamejava.lang.String22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+16*˙
+18h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaY Y(
+ÉÄ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaY Y(,&
+%45org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+	associate*
+true22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+17*Õ
+19h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaW W(.–
+Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaW W(./
+
+cpaRequest!com.rochcap.cpa.models.CpaRequest"__id**
+(
+%42!com.rochcap.cpa.models.CpaRequestÉÄ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaX X(,&
+%44org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+	newRecord*
+true22addAttribute(Ljava/lang/String;Ljava/lang/Object;)*
+18*ë
+8h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javad d(,"°
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javad d(,5
+3
+%59,org.springframework.web.servlet.ModelAndView*É
+9h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javad d(#–Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javad d(3
+%59,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewª
+∏
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javad d(+
+%60"Worg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;Ljava/util/Map;)V*5
+3
+%59,org.springframework.web.servlet.ModelAndView*	
+login**
+(
+modelorg.springframework.ui.ModelMap*
+8*‰
+40h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java9 9(ÈÊ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java9 9()
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+domainjava.lang.String* 2equals(Ljava/lang/Object;)*
+37
+39*ª
+42h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java3 3(	õ
+ò
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java3 3(	
+%7org.jboss.logging.Logger"__id*
+""ˆ
+Û
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java3 3(]
+%8java.lang.String"__concat*EC
+AvalidateLogin - User name and/or password are missing. username: *
+
+usernamejava.lang.StringÉÄ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java3 3(^
+
+%9void"2org.jboss.logging.Logger#warn(Ljava/lang/Object;)V* 
+
+%7org.jboss.logging.Logger*
+
+%8java.lang.String2warn(Ljava/lang/Object;) «
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java4 4(/
+%10void"Rjavax.servlet.http.HttpSession#setAttribute(Ljava/lang/String;Ljava/lang/Object;)V*+
+)
+sessionjavax.servlet.http.HttpSession*
+authenticated*
+""22setAttribute(Ljava/lang/String;Ljava/lang/Object;)´®
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java5 5(R&
+%11org.springframework.ui.ModelMap"sorg.springframework.ui.ModelMap#addAttribute(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/ui/ModelMap;**
+(
+modelorg.springframework.ui.ModelMap*
+errorMessage*-+
+)Please enter a User Name and/or Password!22addAttribute(Ljava/lang/String;Ljava/lang/Object;)–Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java6 6(3
+%12,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewª
+∏
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java6
+ 6(*
+%13"Worg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;Ljava/util/Map;)V*5
+3
+%12,org.springframework.web.servlet.ModelAndView*	
+login**
+(
+modelorg.springframework.ui.ModelMap"°
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java6 6(+5
+3
+%12,org.springframework.web.servlet.ModelAndView*Å
+20h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaW W(-∫∑
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaW! W(+(
+%42!com.rochcap.cpa.models.CpaRequest"!com.rochcap.cpa.models.CpaRequestÕ
+ 
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaW W(-
+%43"+com.rochcap.cpa.models.CpaRequest#<init>()V**
+(
+%42!com.rochcap.cpa.models.CpaRequest*
+19*È
+43h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java1E 1(MÍÁ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java1E 1(X
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+passwordjava.lang.String* 2equals(Ljava/lang/Object;)*
+39
+40
+42*¨
+21h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaV V(ú
+ô
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaV V(
+%40org.jboss.logging.Logger"__id*
+""ñì
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaV V(8
+%41void"3org.jboss.logging.Logger#debug(Ljava/lang/Object;)V*!
+
+%40org.jboss.logging.Logger*'%
+#validateLogin - load Associate Page2debug(Ljava/lang/Object;)*
+20*í
+22h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaR R(-"°
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaR R(-5
+3
+%38,org.springframework.web.servlet.ModelAndView*Â
+45h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java1 1("ÍÁ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java1 1(-
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+usernamejava.lang.String* 2equals(Ljava/lang/Object;)*
+42
+43*Ö
+23h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaR R($–Õ
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaR R(3
+%38,org.springframework.web.servlet.ModelAndView",org.springframework.web.servlet.ModelAndViewª
+∏
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.javaR R(,
+%39"Worg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;Ljava/util/Map;)V*5
+3
+%38,org.springframework.web.servlet.ModelAndView*	
+login**
+(
+modelorg.springframework.ui.ModelMap*
+22:(
+modelorg.springframework.ui.ModelMap:0
+request%javax.servlet.http.HttpServletRequest:)
+sessionjavax.servlet.http.HttpSessionB/-
++com.rochcap.cpa.controllers.LoginController

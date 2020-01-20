@@ -1,0 +1,49 @@
+
+¼com.rochcap.cpa.controllers.LoginController#displayLogin(Lorg/springframework/ui/ModelMap;Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java# #("paramAnnotations*Ù
+paramAnnotationsh
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java# #(eï
+ì
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java" "(B
+%0"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*2
+0
+request%javax.servlet.http.HttpServletRequestµ
+²
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java#? #(F0
+request%javax.servlet.http.HttpServletRequest"__annotation*
+
+%0ñ
+î
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java" "(B
+%1"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*4
+2
+response&javax.servlet.http.HttpServletResponse·
+´
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java#\ #(d2
+response&javax.servlet.http.HttpServletResponse"__annotation*
+
+%1*
+1*‘
+1h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java% %(˜
+•
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java% %(
+pagejava.lang.String"__id*	
+login"†
+h
+^C:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/controllers/LoginController.java& &(
+
+pagejava.lang.String:(
+modelorg.springframework.ui.ModelMap:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB/-
++com.rochcap.cpa.controllers.LoginController

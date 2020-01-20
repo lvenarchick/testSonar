@@ -1,0 +1,179 @@
+
+<com.rochcap.cpa.models.CpaEvent#toString()Ljava/lang/String;\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaR R("1*Š$
+1\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(²
+¯
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT! T()
+%0java.lang.String"__id*1*/!
+com.rochcap.cpa.models.CpaEvent"
+
+recordId¶
+³
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T()
+%1java.lang.String"__concat*
+CpaEvent [recordId=*
+
+%0java.lang.String±
+®
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(<
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, cpaRecordId=µ
+²
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT? T(J
+%3java.lang.String"__id*4*2!
+com.rochcap.cpa.models.CpaEvent"
+cpaRecordId·
+´
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(J
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String´
+±
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(`
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, previousStatus=¸
+µ
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaTc T(q
+%6java.lang.String"__id*7*5!
+com.rochcap.cpa.models.CpaEvent"
+previousStatus·
+´
+\
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(q
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String°
+­
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(‚
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, newStatus=µ
+²
+^
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT… T(Ž
+%9java.lang.String"__id*2*0!
+com.rochcap.cpa.models.CpaEvent"
+	newStatus¹
+¶
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(Ž
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String­
+ª
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(š
+%11java.lang.String"__concat*
+
+%10java.lang.String*	
+, note=±
+®
+^
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT T(¡
+%12java.lang.String"__id*-*+!
+com.rochcap.cpa.models.CpaEvent"
+note»
+¸
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(¡
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.String¯
+¬
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(¯
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+	, userId=³
+°
+^
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT² T(¸
+%15java.lang.String"__id*/*-!
+com.rochcap.cpa.models.CpaEvent"
+userId»
+¸
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(¸
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.String²
+¯
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(É
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+, eventDate=¸
+µ
+^
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaTÌ T(Õ
+%18java.sql.Timestamp"__id*2*0!
+com.rochcap.cpa.models.CpaEvent"
+	eventDate½
+º
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(Õ
+%19java.lang.String"__concat*
+
+%17java.lang.String*
+
+%18java.sql.Timestamp®
+«
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(â
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+
+, event=²
+¯
+^
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaTå T(ê
+%21java.lang.String"__id*.*,!
+com.rochcap.cpa.models.CpaEvent"
+event»
+¸
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(ê
+%22java.lang.String"__concat*
+
+%20java.lang.String*
+
+%21java.lang.String§
+¤
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT	 T(ð
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+]"z
+]
+RC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaEvent.javaT T(ñ
+
+%23java.lang.StringB#!
+com.rochcap.cpa.models.CpaEvent

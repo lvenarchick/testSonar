@@ -1,0 +1,16 @@
+
+Icom.rochcap.cpa.models.CpaRequest#getAgentSsnLastFour()Ljava/lang/String;`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.javaº º(""1*¦
+1`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java¼	 ¼(À
+½
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java¼	 ¼(
+%0java.lang.String"__id*;*9#
+!com.rochcap.cpa.models.CpaRequest"
+agentSsnLastFour"|
+`
+TC:/javatools/GitRepos/testSonar/src/main/java/com/rochcap/cpa/models/CpaRequest.java¼ ¼(
+
+%0java.lang.StringB%#
+!com.rochcap.cpa.models.CpaRequest
