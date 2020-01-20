@@ -166,7 +166,6 @@ public class RequestController
 		catch (Exception ex)
 		{
 			view = "serverError";
-			ex.printStackTrace();
 		}
 		finally
 		{
